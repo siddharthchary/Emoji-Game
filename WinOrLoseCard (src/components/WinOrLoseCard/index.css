@@ -1,0 +1,35 @@
+.card1 {
+  background-color: rgba(249, 231, 231, 0.5);
+  height: 500px;
+  width: 650px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.scoreCard {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  align-items: center;
+  padding: 10px;
+}
+.game-result {
+  color: #ffffff;
+  font-family: Roboto;
+}
+.score-tag {
+  color: #ffffff;
+}
+.result-score {
+  color: #6a59ff;
+}
+.play-btn {
+  width: 120px;
+  cursor: pointer;
+  outline: none;
+  background-color: #ffce27;
+  color: black;
+  border-radius: 7px;
+}
