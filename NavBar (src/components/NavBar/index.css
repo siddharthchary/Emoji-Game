@@ -1,0 +1,40 @@
+.nav-cont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: rgba(249, 231, 231, 0.5);
+  align-items: center;
+  height: 120px;
+  width: 100%;
+}
+.logo-cont {
+  justify-self: flex-start;
+  margin-left: 55px;
+  display: flex;
+  flex-direction: row;
+}
+.logo-header {
+  margin-left: 0px;
+  color: #ffffff;
+  font-size: 22px;
+  font-family: Roboto;
+}
+.score-card {
+  justify-self: flex-end;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 350px;
+  align-items: center;
+  margin-right: 40px;
+}
+.score-detail {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: Roboto;
+}
+.score-detail2 {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: Roboto;
+}
