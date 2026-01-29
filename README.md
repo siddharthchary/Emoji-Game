@@ -1,2 +1,24 @@
-# Emoji-Game
-This is a react based emoji shuffle game You need to click every emoji only once at a total of 12 times, then you will win the game
+# 🎮 Emoji Memory Game
+
+A fun memory-based game built using **React**. Click each emoji only once — clicking the same emoji twice ends the game.
+
+
+## 🚀 Features
+- Score & Top Score tracking
+- Shuffle emojis dynamically
+- Win/Lose screen
+- Replay functionality
+
+
+## 🛠 Tech Stack
+- React
+- JavaScript
+- CSS
+
+
+## ▶️ Run Locally
+
+
+```bash
+npm install
+npm start
